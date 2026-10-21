@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "booksbot",
+  "versions": [
+    {
+      "commit": "959a7dcdcf34c12f446a20e6e7bbecf97697f0fd",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:36:16.641520+00:00"
+    }
+  ]
+}
