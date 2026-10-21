@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "scrapy",
+  "repo": "booksbot",
+  "versions": [
+    {
+      "commit": "959a7dcdcf34c12f446a20e6e7bbecf97697f0fd",
+      "parsed_at": "2026-10-21T02:33:28.175121+00:00",
+      "filetree": "filetree/959a7dcdcf34c12f446a20e6e7bbecf97697f0fd.nq.gz",
+      "blobs": [
+        "blob/99ab43461fa4ad4144201f8dc513e7843df43797.nq.gz",
+        "blob/c5c46986f2b7232f850532ab8b04e53ca4a3781c.nq.gz",
+        "blob/72364f99fe4bf8d5262df3b19b33102aeaa791e5.nq.gz",
+        "blob/ebd689ac51d69c5e1dbbe80083c2b20a39f8bb79.nq.gz",
+        "blob/ed6286abcc0646c0f115a90423ab3e8be37f9ec4.nq.gz",
+        "blob/08518a2ac28696dee3fa854b9e24113e329b179e.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/e2c03f843de1122c06351f1a491dab1ed79b99db.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

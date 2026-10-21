@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/scrapy/booksbot",
+  "@type": "gh:Repository",
+  "gh:name": "booksbot",
+  "gh:owner": "scrapy",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/scrapy/booksbot/commit/959a7dcdcf34c12f446a20e6e7bbecf97697f0fd",
+      "git:hexsha": "959a7dcdcf34c12f446a20e6e7bbecf97697f0fd",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
